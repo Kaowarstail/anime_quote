@@ -1,0 +1,10 @@
+.anime{
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+}
+
+.tmp{
+    margin-top: 5%;
+    margin-right: 5%;
+}
